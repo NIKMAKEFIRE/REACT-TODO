@@ -1,5 +1,5 @@
 #### Контакт Менеджер - todo-list приложение , которое позволяет создавать и хранить контактную информацию
->### Стек : React js, Bootstrap
+>### Стек : Typescript , React js, Axios, Bootstrap
 
 <img src="./shot.png" alt="">
 
